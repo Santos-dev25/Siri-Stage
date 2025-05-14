@@ -38,4 +38,3 @@ def adicionar_usuario():
     print(f'Usuário Cadastrado Com Sucesso!')
     print("-"*50)
     salvar_usuarios_json()
-x
