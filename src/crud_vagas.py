@@ -1,6 +1,6 @@
-# Pedro Marrocos - CRUD de Vagas (empresas criam/editam/excluem/listam vagas)
 
-# Lista simulada de vagas só para teste (mais tarde será substituída por dados reais)
+
+# Lista simulada de vagas só para teste (mais tarde será substituída por jason)
 vagas = [
     {"titulo": "Desenvolvedor Backend", "empresa": "Empresa X", "local": "São Paulo"},
     {"titulo": "Designer UX", "empresa": "Estúdio Criativo", "local": "Rio de Janeiro"} #json
